@@ -14,8 +14,9 @@ Heroku Example
 - 3) git push heroku master
 - 4) heroku config:set NODE_END=production
 
-# Otros comandos Heroku
+# Otros comandos Heroku & Git
 - 1) heroku restart
 - 2) heroku open
 - 3) heroku logs
-
+- 4) git remote add  heroku git@heroku.com:your_app_name.git
+- 5) git remote -v
