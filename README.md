@@ -20,3 +20,6 @@ Heroku Example
 - 3) heroku logs
 - 4) git remote add  heroku git@heroku.com:your_app_name.git
 - 5) git remote -v
+
+#
+URL example :: http://mean-example.herokuapp.com/
